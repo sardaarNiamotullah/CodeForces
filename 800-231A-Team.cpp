@@ -10,7 +10,7 @@ int main() {
     for (int i = 0; i < n; i++) {
         cin >> p >> v >> t;
         if (p+v+t >= 2)
-            implement++;
+            ++implement;
     }
 
     cout << implement << endl;

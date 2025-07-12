@@ -14,7 +14,7 @@ This repository serves as a comprehensive archive of my Codeforces problem solut
 - Reference Material: Maintain a searchable database of algorithmic approaches
 
 ## 📈 Statistics
-- Total Problems Solved: **1**
+- Total Problems Solved: **3**
 - Current Rating: **400**
 - Heighest Rating: **400**
 
@@ -48,3 +48,4 @@ Below is a comprehensive table of all solved problems, organized by difficulty a
 |--------|-------------------|----------------------------|--------------------------------|---------------|
 |4A      |800                |[Watermelon](https://codeforces.com/problemset/problem/4/A)  |Brute Force    |[Link](https://github.com/sardaarNiamotullah/CodeForces/blob/main/4A-800-Watermelon.cpp)|
 |71A     |800                |[Way Too Long Words](https://codeforces.com/problemset/problem/71/A)|Strings |[Link](https://github.com/sardaarNiamotullah/CodeForces/blob/main/71A-800-Way_Too_Long_Words.cpp)|
+|231A    |800                |[Team](https://codeforces.com/problemset/problem/231/A)|Strings |[Link](https://github.com/sardaarNiamotullah/CodeForces/blob/main/800-231A-Team.cpp)|
