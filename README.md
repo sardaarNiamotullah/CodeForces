@@ -14,9 +14,22 @@ This repository serves as a comprehensive archive of my Codeforces problem solut
 - Reference Material: Maintain a searchable database of algorithmic approaches
 
 ## 📈 Statistics
-- Total Problems Solved: **3**
-- Current Rating: **400**
-- Heighest Rating: **400**
+- **Total Problems Solved: 3**
+- **Current Rating: 400**
+- **Heighest Rating: 400**
+
+## Contest Attempt:
+- **Div4: 0**
+- **Div3: 0**
+- **Div2: 0**
+- **Div1: 0**
+
+
+## # of Problem Solved by Difficulty
+- **800 - 1200: 3 problems**
+- **1300 - 1700: 0 problems**
+- **1800 - 2200: 0 problems**
+- **2300+ : 0 problems**
 
 ## 🔧 Languages Used
 - **C++**
@@ -44,8 +57,13 @@ Below is a comprehensive table of all solved problems, organized by difficulty a
 
 </div>
 
-|#       |Difficulty Rating  |Problem Name                |Topic                           |Solution Link  |
-|--------|-------------------|----------------------------|--------------------------------|---------------|
-|4A      |800                |[Watermelon](https://codeforces.com/problemset/problem/4/A)  |Brute Force    |[Link](https://github.com/sardaarNiamotullah/CodeForces/blob/main/4A-800-Watermelon.cpp)|
-|71A     |800                |[Way Too Long Words](https://codeforces.com/problemset/problem/71/A)|Strings |[Link](https://github.com/sardaarNiamotullah/CodeForces/blob/main/71A-800-Way_Too_Long_Words.cpp)|
-|231A    |800                |[Team](https://codeforces.com/problemset/problem/231/A)|Strings |[Link](https://github.com/sardaarNiamotullah/CodeForces/blob/main/800-231A-Team.cpp)|
+### 📚 Rating 800
+
+
+- [**4A - Watermelon**](https://codeforces.com/problemset/problem/4/A) || [**Solution: C++**](https://github.com/sardaarNiamotullah/CodeForces/blob/main/800-4A-Watermelon.cpp) || **Problem Tag:**`[Brute Force]`
+
+- [**71A - Way Too Long Words**](https://codeforces.com/problemset/problem/71/A) || [**Solution: C++**](https://github.com/sardaarNiamotullah/CodeForces/blob/main/800-71A-Way_Too_Long_Words.cpp) || **Problem Tag:** `[Strings]`
+
+- [**231A - Team**](https://codeforces.com/problemset/problem/231/A) || [**Solution: C++**](https://github.com/sardaarNiamotullah/CodeForces/blob/main/800-231A-Team.cpp) || **Problem Tags:** `[Brute Force, Greedy]`
+
+- [**282A - Bit++**](https://codeforces.com/problemset/problem/282/A) || [**Solution: C++**](https://github.com/sardaarNiamotullah/CodeForces/blob/main/800-231A-Team.cpp) || **Problem Tags:** `[Implementation]`

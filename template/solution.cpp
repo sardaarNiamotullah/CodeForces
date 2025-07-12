@@ -1,19 +1,31 @@
 #include <iostream>
 #include <string>
- 
+
 using namespace std;
- 
+
 int main() {
-    int n, p, v, t, implement(0);
+	int n, value(0);
     cin >> n;
 
-    for (int i = 0; i < n; i++) {
-        cin >> p >> v >> t;
-        if (p+v+t >= 2)
-            implement++;
-    }
+	while (n--) {
+		string statement;
+		cin >> statement;
 
-    cout << implement << endl;
-    
-    return 0;
+		if (statement[0] == 'X') {
+			if (statement[2] == '+') {
+				value++;
+			} else {
+				value--;
+			}
+		} else {
+			if (statement[0] == '+') {
+				value++;
+			} else {
+				value--;
+			}
+		}
+	}
+
+    cout << value << endl;
+	return 0;
 }
